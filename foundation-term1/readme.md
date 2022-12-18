@@ -42,4 +42,4 @@ git clone https://github.com/Param302/IITM-BS-score-Calculator.git
 
 ### Want to Contribute ?
 
-Check how to contribute [here](../readme.md#want-to-contribute)
+Check how to contribute [here](../readme.md#want-to-contribute-)

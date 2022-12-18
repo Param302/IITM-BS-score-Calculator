@@ -10,7 +10,7 @@ class CalculateTotalScore:
         self.q1 = q1
         self.q2 = q2
         self.gaas = gaas
-        self.pa_bonus = (pa_bonus / 10) * 5
+        self.pa_bonus = pa_bonus
 
     @property
     def gaa(self) -> float:
